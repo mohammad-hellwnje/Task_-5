@@ -902,6 +902,9 @@
     .hero .container1 .hero2 .tap-img {
         display: none;
     }
+    .hero .container2 {
+        margin-top: 13px;
+    }
     .featured {
         padding: 15px 10px;
     }
